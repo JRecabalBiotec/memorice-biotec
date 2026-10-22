@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Memorice Biotec · Lavado de manos",
+  "short_name": "Memorice Biotec",
+  "description": "Juego de memoria del protocolo de lavado de manos — Biotec Higiene Profesional.",
+  "lang": "es-CL",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#032a66",
+  "theme_color": "#032a66",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
